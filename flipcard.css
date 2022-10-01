@@ -67,7 +67,7 @@ justify-content: center;
   top:0;
   left:0;
   height: 100%;
-  width:100%;
+  min-width:100%;
   background-color: rgba(43,45,47,0.9);
   display: none;
   
@@ -101,7 +101,7 @@ li{
 }
 .states1{
   height:500px;
-  min-width:fit-content;
+  min-width:100%;
   display: flex;
   justify-content: center;
   align-items: center;
