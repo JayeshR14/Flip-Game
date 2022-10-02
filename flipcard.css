@@ -100,7 +100,7 @@ li{
   margin-bottom: 7px;
 }
 .states1{
-  height:500px;
+  min-height:100%;
   min-width:100%;
   display: flex;
   justify-content: center;
