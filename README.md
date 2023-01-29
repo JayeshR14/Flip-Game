@@ -1,1 +1,1 @@
-<h1>https://jayeshr14.github.io/Flip-Game</h1>
+<h2>https://jayeshr14.github.io/Flip-Game</h2>
